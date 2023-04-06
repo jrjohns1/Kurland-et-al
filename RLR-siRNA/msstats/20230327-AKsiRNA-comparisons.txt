@@ -1,0 +1,13 @@
+Comparisons	siControl	ATM	AMPKA1	ATR	siControl_PIC	ATM_PIC	AMPKA1_PIC	ATR_PIC	siControl_INF	ATM_INF	AMPKA1_INF	ATR_INF
+siControl_PIC-siControl	-1	0	0	0	1	0	0	0	0	0	0	0
+siControl_INF-siControl	-1	0	0	0	0	0	0	0	1	0	0	0
+siATM-siControl	-1	1	0	0	0	0	0	0	0	0	0	0
+siAMPKA1-siControl	-1	0	1	0	0	0	0	0	0	0	0	0
+siATR-siControl	-1	0	0	1	0	0	0	0	0	0	0	0
+siATM_PIC-siControl	-1	0	0	0	0	1	0	0	0	0	0	0
+siAMPKA1_PIC-siControl	-1	0	0	0	0	0	1	0	0	0	0	0
+siATR_PIC-siCOntrol	-1	0	0	0	0	0	0	1	0	0	0	0
+siATM_INF-siControl	-1	0	0	0	0	0	0	0	0	1	0	0
+siAMPKA1_INF-siControl	-1	0	0	0	0	0	0	0	0	0	1	0
+siATR_INF-siControl	-1	0	0	0	0	0	0	0	0	0	0	1
+

@@ -1,0 +1,6 @@
+Comparisons	Control	x05min	x30min	x02hr	x24hr
+PIC_05m-Control	-1	1	0	0	0
+PIC_30m-Control	-1	0	1	0	0
+PIC_02h-Control	-1	0	0	1	0
+PIC_24h-Control	-1	0	0	0	1
+

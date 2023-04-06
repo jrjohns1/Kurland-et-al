@@ -1,0 +1,19 @@
+Comparison	Mock	DMSO	Control	ERK12_10uM	PLK1_10uM	ERK2_10uM	mTOR_10uM	AURKA_10uM	GSK3AB_10uM	AURKB_10uM	AMPKA1_10uM	JNK123_10uM	p38a_10uM	p38ab_10uM	ATM_10uM	MRT50	ATR_10uM	MRT20  	MRT10
+Mock_DMSO	1	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+DMSO_Control	0	1	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ERK12_10uM_Control	0	0	-1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PLK1_10uM_Control	0	0	-1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ERK2_10uM_Control	0	0	-1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+mTOR_10uM_Control	0	0	-1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+AURKA_10uM_Control	0	0	-1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+GSK3AB_10uM_Control	0	0	-1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+AURKB_10uM_Control	0	0	-1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+AMPKA1_10uM_Control	0	0	-1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+JNK123_10uM_Control	0	0	-1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+p38a_10uM_Control	0	0	-1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+p38ab_10uM_Control	0	0	-1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+ATM_10uM_Control	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+MRT50_Control	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+ATR_10uM_Control	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+MRT20 _Control	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+MRT10_Control	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
